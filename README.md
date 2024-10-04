@@ -3,11 +3,17 @@ This project is an implementation of an object detection model that detects vehi
 
 ## Table of Contents
 Dataset
+
 Installation
+
 Training
+
 Inference
+
 Evaluation
+
 Run Inference on a Video
+
 Results
 
 ## Dataset
